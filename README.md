@@ -1,4 +1,5 @@
 # DESIGN-AND-IMPLEMENTATION-OF-A-COLOUR-SEPARATOR-MACHINE-USING-LABVIEW-AND-ARDUINO
+https://www.linkedin.com/feed/update/urn:li:activity:7061033385187569664/
 The MyRIO controller receives the images from the webcam, processes them using LabVIEW software, and controls the servo motor to move the separator based on the colour of the object.
 Automated sorting: The color separator machine uses machine vision technology to automatically sort colored objects based on their color, reducing the need for manual labor.
 
